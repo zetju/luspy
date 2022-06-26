@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luspy
-- 👀 I’m interested in PHP, JS, PYTHON, C#
+- 👀 I’m interested in PHP, JS, PYTHON
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me todi306@gmail.com
